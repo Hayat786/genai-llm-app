@@ -20,88 +20,88 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 ### 🌱 Starter AI Agents
 
-* [🎙️ AI Blog to Podcast Agent](starter_ai_agents/ai_blog_to_podcast_agent/)
-* [❤️‍🩹 AI Breakup Recovery Agent](starter_ai_agents/ai_breakup_recovery_agent/)
-* [📊 AI Data Analysis Agent](starter_ai_agents/ai_data_analysis_agent/)
-* [🩻 AI Medical Imaging Agent](starter_ai_agents/ai_medical_imaging_agent/)
-* [😂 AI Meme Generator Agent (Browser)](starter_ai_agents/ai_meme_generator_agent_browseruse/)
-* [🎵 AI Music Generator Agent](starter_ai_agents/ai_music_generator_agent/)
-* [🛫 AI Travel Agent (Local & Cloud)](starter_ai_agents/ai_travel_agent/)
-* [✨ Gemini Multimodal Agent](starter_ai_agents/gemini_multimodal_agent_demo/)
-* [🔄 Mixture of Agents](starter_ai_agents/mixture_of_agents/)
-* [📊 xAI Finance Agent](starter_ai_agents/xai_finance_agent/)
-* [🔍 OpenAI Research Agent](starter_ai_agents/opeani_research_agent/)
-* [🕸️ Web Scraping AI Agent (Local & Cloud SDK)](starter_ai_agents/web_scrapping_ai_agent/)
+* [🎙️ AI Blog to Podcast Agent](01_Basic_Agents/ai_blog_to_podcast_agent/)
+* [❤️‍🩹 AI Breakup Recovery Agent](01_Basic_Agents/ai_breakup_recovery_agent/)
+* [📊 AI Data Analysis Agent](01_Basic_Agents/ai_data_analysis_agent/)
+* [🩻 AI Medical Imaging Agent](01_Basic_Agents/ai_medical_imaging_agent/)
+* [😂 AI Meme Generator Agent (Browser)](01_Basic_Agents/ai_meme_generator_agent_browseruse/)
+* [🎵 AI Music Generator Agent](01_Basic_Agents/ai_music_generator_agent/)
+* [🛫 AI Travel Agent (Local & Cloud)](01_Basic_Agents/ai_travel_agent/)
+* [✨ Gemini Multimodal Agent](01_Basic_Agents/gemini_multimodal_agent_demo/)
+* [🔄 Mixture of Agents](01_Basic_Agents/mixture_of_agents/)
+* [📊 xAI Finance Agent](01_Basic_Agents/xai_finance_agent/)
+* [🔍 OpenAI Research Agent](01_Basic_Agents/opeani_research_agent/)
+* [🕸️ Web Scraping AI Agent (Local & Cloud SDK)](01_Basic_Agents/web_scrapping_ai_agent/)
 
 ### 🚀 Advanced AI Agents
-* [🏚️ 🍌 AI Home Renovation Agent with Nano Banana](advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent)
-* [🔍 AI Deep Research Agent](advanced_ai_agents/single_agent_apps/ai_deep_research_agent/)
-* [🤝 AI Consultant Agent](advanced_ai_agents/single_agent_apps/ai_consultant_agent)
-* [🏗️ AI System Architect Agent](advanced_ai_agents/single_agent_apps/ai_system_architect_r1/)
-* [💰 AI Financial Coach Agent](advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent/)
-* [🎬 AI Movie Production Agent](advanced_ai_agents/single_agent_apps/ai_movie_production_agent/)
-* [📈 AI Investment Agent](advanced_ai_agents/single_agent_apps/ai_investment_agent/)
-* [🏋️‍♂️ AI Health & Fitness Agent](advanced_ai_agents/single_agent_apps/ai_health_fitness_agent/)
-* [🚀 AI Product Launch Intelligence Agent](advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent)
-* [🗞️ AI Journalist Agent](advanced_ai_agents/single_agent_apps/ai_journalist_agent/)
-* [🧠 AI Mental Wellbeing Agent](advanced_ai_agents/multi_agent_apps/ai_mental_wellbeing_agent/)
-* [📑 AI Meeting Agent](advanced_ai_agents/single_agent_apps/ai_meeting_agent/)
-* [🧬 AI Self-Evolving Agent](advanced_ai_agents/multi_agent_apps/ai_Self-Evolving_agent/)
-* [🎧 AI Social Media News and Podcast Agent](advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/)
+* [🏚️ 🍌 AI Home Renovation Agent with Nano Banana](03_Advanced_Agents/multi_agent_apps/ai_home_renovation_agent)
+* [🔍 AI Deep Research Agent](03_Advanced_Agents/single_agent_apps/ai_deep_research_agent/)
+* [🤝 AI Consultant Agent](03_Advanced_Agents/single_agent_apps/ai_consultant_agent)
+* [🏗️ AI System Architect Agent](03_Advanced_Agents/single_agent_apps/ai_system_architect_r1/)
+* [💰 AI Financial Coach Agent](03_Advanced_Agents/multi_agent_apps/ai_financial_coach_agent/)
+* [🎬 AI Movie Production Agent](03_Advanced_Agents/single_agent_apps/ai_movie_production_agent/)
+* [📈 AI Investment Agent](03_Advanced_Agents/single_agent_apps/ai_investment_agent/)
+* [🏋️‍♂️ AI Health & Fitness Agent](03_Advanced_Agents/single_agent_apps/ai_health_fitness_agent/)
+* [🚀 AI Product Launch Intelligence Agent](03_Advanced_Agents/multi_agent_apps/product_launch_intelligence_agent)
+* [🗞️ AI Journalist Agent](03_Advanced_Agents/single_agent_apps/ai_journalist_agent/)
+* [🧠 AI Mental Wellbeing Agent](03_Advanced_Agents/multi_agent_apps/ai_mental_wellbeing_agent/)
+* [📑 AI Meeting Agent](03_Advanced_Agents/single_agent_apps/ai_meeting_agent/)
+* [🧬 AI Self-Evolving Agent](03_Advanced_Agents/multi_agent_apps/ai_Self-Evolving_agent/)
+* [🎧 AI Social Media News and Podcast Agent](03_Advanced_Agents/multi_agent_apps/ai_news_and_podcast_agents/)
 
 ### 🎮 Autonomous Game Playing Agents
 
-* [🎮 AI 3D Pygame Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_3dpygame_r1/)
-* [♜ AI Chess Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_chess_agent/)
-* [🎲 AI Tic-Tac-Toe Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent/)
+* [🎮 AI 3D Pygame Agent](03_Advanced_Agents/autonomous_game_playing_agent_apps/ai_3dpygame_r1/)
+* [♜ AI Chess Agent](03_Advanced_Agents/autonomous_game_playing_agent_apps/ai_chess_agent/)
+* [🎲 AI Tic-Tac-Toe Agent](03_Advanced_Agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent/)
 
 ### 🤝 Multi-agent Teams
 
-* [🧲 AI Competitor Intelligence Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_competitor_intelligence_agent_team/)
-* [💲 AI Finance Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_finance_agent_team/)
-* [🎨 AI Game Design Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_game_design_agent_team/)
-* [👨‍⚖️ AI Legal Agent Team (Cloud & Local)](advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team/)
-* [💼 AI Recruitment Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team/)
-* [🏠 AI Real Estate Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_real_estate_agent_team)
-* [👨‍💼 AI Services Agency (CrewAI)](advanced_ai_agents/multi_agent_apps/agent_teams/ai_services_agency/)
-* [👨‍🏫 AI Teaching Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_teaching_agent_team/)
-* [💻 Multimodal Coding Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_coding_agent_team/)
-* [✨ Multimodal Design Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_design_agent_team/)
-* [🎨 🍌 Multimodal UI/UX Feedback Agent Team with Nano Banana](advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team/)
-* [🌏 AI Travel Planner Agent Team](/advanced_ai_agents/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/)
+* [🧲 AI Competitor Intelligence Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_competitor_intelligence_agent_team/)
+* [💲 AI Finance Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_finance_agent_team/)
+* [🎨 AI Game Design Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_game_design_agent_team/)
+* [👨‍⚖️ AI Legal Agent Team (Cloud & Local)](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_legal_agent_team/)
+* [💼 AI Recruitment Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team/)
+* [🏠 AI Real Estate Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_real_estate_agent_team)
+* [👨‍💼 AI Services Agency (CrewAI)](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_services_agency/)
+* [👨‍🏫 AI Teaching Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_teaching_agent_team/)
+* [💻 Multimodal Coding Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/multimodal_coding_agent_team/)
+* [✨ Multimodal Design Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/multimodal_design_agent_team/)
+* [🎨 🍌 Multimodal UI/UX Feedback Agent Team with Nano Banana](03_Advanced_Agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team/)
+* [🌏 AI Travel Planner Agent Team](03_Advanced_Agents/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/)
 
 ### 🗣️ Voice AI Agents
 
-* [🗣️ AI Audio Tour Agent](voice_ai_agents/ai_audio_tour_agent/)
-* [📞 Customer Support Voice Agent](voice_ai_agents/customer_support_voice_agent/)
-* [🔊 Voice RAG Agent (OpenAI SDK)](voice_ai_agents/voice_rag_openaisdk/)
+* [🗣️ AI Audio Tour Agent](05_Voice_AI/ai_audio_tour_agent/)
+* [📞 Customer Support Voice Agent](05_Voice_AI/customer_support_voice_agent/)
+* [🔊 Voice RAG Agent (OpenAI SDK)](05_Voice_AI/voice_rag_openaisdk/)
 
 
 ### <img src="https://cdn.simpleicons.org/modelcontextprotocol"  alt="mcp logo" width="25" height="20"> MCP AI Agents 
 
-* [♾️ Browser MCP Agent](mcp_ai_agents/browser_mcp_agent/)
-* [🐙 GitHub MCP Agent](mcp_ai_agents/github_mcp_agent/)
-* [📑 Notion MCP Agent](mcp_ai_agents/notion_mcp_agent) 
-* [🌍 AI Travel Planner MCP Agent](mcp_ai_agents/ai_travel_planner_mcp_agent_team)
+* [♾️ Browser MCP Agent](04_MCP_Tools/browser_mcp_agent/)
+* [🐙 GitHub MCP Agent](04_MCP_Tools/github_mcp_agent/)
+* [📑 Notion MCP Agent](04_MCP_Tools/notion_mcp_agent) 
+* [🌍 AI Travel Planner MCP Agent](04_MCP_Tools/ai_travel_planner_mcp_agent_team)
 
 ### 📀 RAG (Retrieval Augmented Generation)
-* [🔥 Agentic RAG with Embedding Gemma](rag_tutorials/agentic_rag_embedding_gemma)
-* [🧐 Agentic RAG with Reasoning](rag_tutorials/agentic_rag_with_reasoning/)
-* [📰 AI Blog Search (RAG)](rag_tutorials/ai_blog_search/)
-* [🔍 Autonomous RAG](rag_tutorials/autonomous_rag/)
-* [🔄 Contextual AI RAG Agent](rag_tutorials/contextualai_rag_agent/)
-* [🔄 Corrective RAG (CRAG)](rag_tutorials/corrective_rag/)
-* [🐋 Deepseek Local RAG Agent](rag_tutorials/deepseek_local_rag_agent/)
-* [🤔 Gemini Agentic RAG](rag_tutorials/gemini_agentic_rag/)
-* [👀 Hybrid Search RAG (Cloud)](rag_tutorials/hybrid_search_rag/)
-* [🔄 Llama 3.1 Local RAG](rag_tutorials/llama3.1_local_rag/)
-* [🖥️ Local Hybrid Search RAG](rag_tutorials/local_hybrid_search_rag/)
-* [🦙 Local RAG Agent](rag_tutorials/local_rag_agent/)
-* [🧩 RAG-as-a-Service](rag_tutorials/rag-as-a-service/)
-* [✨ RAG Agent with Cohere](rag_tutorials/rag_agent_cohere/)
-* [⛓️ Basic RAG Chain](rag_tutorials/rag_chain/)
-* [📠 RAG with Database Routing](rag_tutorials/rag_database_routing/)
-* [🖼️ Vision RAG](rag_tutorials/vision_rag/)
+* [🔥 Agentic RAG with Embedding Gemma](02_RAG_Systems/agentic_rag_embedding_gemma)
+* [🧐 Agentic RAG with Reasoning](02_RAG_Systems/agentic_rag_with_reasoning/)
+* [📰 AI Blog Search (RAG)](02_RAG_Systems/ai_blog_search/)
+* [🔍 Autonomous RAG](02_RAG_Systems/autonomous_rag/)
+* [🔄 Contextual AI RAG Agent](02_RAG_Systems/contextualai_rag_agent/)
+* [🔄 Corrective RAG (CRAG)](02_RAG_Systems/corrective_rag/)
+* [🐋 Deepseek Local RAG Agent](02_RAG_Systems/deepseek_local_rag_agent/)
+* [🤔 Gemini Agentic RAG](02_RAG_Systems/gemini_agentic_rag/)
+* [👀 Hybrid Search RAG (Cloud)](02_RAG_Systems/hybrid_search_rag/)
+* [🔄 Llama 3.1 Local RAG](02_RAG_Systems/llama3.1_local_rag/)
+* [🖥️ Local Hybrid Search RAG](02_RAG_Systems/local_hybrid_search_rag/)
+* [🦙 Local RAG Agent](02_RAG_Systems/local_rag_agent/)
+* [🧩 RAG-as-a-Service](02_RAG_Systems/rag-as-a-service/)
+* [✨ RAG Agent with Cohere](02_RAG_Systems/rag_agent_cohere/)
+* [⛓️ Basic RAG Chain](02_RAG_Systems/rag_chain/)
+* [📠 RAG with Database Routing](02_RAG_Systems/rag_database_routing/)
+* [🖼️ Vision RAG](02_RAG_Systems/vision_rag/)
 
 ### 💾 LLM Apps with Memory Tutorials
 
@@ -152,13 +152,13 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 1. **Clone the repository**
     ```bash 
-    git clone [https://github.com/Hayat786/awesome-llm-apps.git](https://github.com/Hayat786/genai-apps.git) 
+    git clone [https://github.com/Hayat786/genai-llm-app.git](https://github.com/Hayat786/genai-llm-app.git) 
     ```
 
 3. **Navigate to the desired project directory**
 
     ```bash 
-    cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
+    cd genai-llm-app/01_Basic_Agents/ai_travel_agent
     ```
 
 4. **Install the required dependencies**
@@ -168,8 +168,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
     ```
 
 5. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
-
-
 
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
