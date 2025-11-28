@@ -8,7 +8,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 <hr/>
 
-## 🤔 Why Awesome LLM Apps?
+## 🤔 Why GENAI LLM Apps?
 
 - 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
 - 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with AI Agents, Agent Teams, MCP & RAG.
