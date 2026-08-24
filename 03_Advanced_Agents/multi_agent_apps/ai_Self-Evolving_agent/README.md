@@ -81,7 +81,7 @@ For local development or detailed setup (e.g., using conda), refer to the [Insta
 <summary>Example (optional, for local development):</summary>
 
 ```bash
-git clone https://github.com/EvoAgentX/EvoAgentX.git
+git clone https://github.com/Hayat786/EvoAgentX.git
 cd EvoAgentX
 # Create a new conda environment
 conda create -n evoagentx python=3.10

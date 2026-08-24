@@ -81,7 +81,7 @@ Built with Streamlit, the UI includes:
 ## Setup Instructions
 ### 1. Clone the repo
 ```sh
-git clone https://github.com/aminajavaid30/ai_speech_trainer.git
+git clone https://github.com/Hayat786/ai_speech_trainer.git
 cd ai_speech_trainer
 ```
 

@@ -48,7 +48,7 @@ Step into the world where AI meets intuition with The Magician IA Reader!
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/maurizioorani/TheMagician-IA-Reader.git
+   git clone https://github.com/Hayat786/TheMagician-IA-Reader.git
    cd TheMagician-IA-Reader
    ```
 
